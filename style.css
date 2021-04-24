@@ -1,0 +1,96 @@
+
+body {
+  background-image: url("https://cdn.discordapp.com/attachments/459288315137359882/822882656118243398/imageonline-co-blurimage_1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  margin:0px;
+}
+div.box {
+  text-align: center;
+}
+.corpo {
+  margin: 20px 16px;
+}
+@font-face {
+  font-family: "Czar";
+  src: url(fonts/Czar.ttf);
+}
+@font-face {
+  font-family: "Kalin";
+  src: url(fonts/KALIN___.TTF)
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin: 0px;
+  font-family: Perpetua;
+  color: aliceblue;
+}
+header h2 {
+  text-align: center;
+  font-size: 40px;
+  margin:8px;
+ font-family: Perpetua;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  margin:8px;
+}
+.imagens-pequenas {
+  width:100px;
+}
+/*.fundo-azul-transparencia {
+  background-color: rgba(0, 0, 255, 0.2)
+}
+*/
+#thanks {
+  text-align: center;
+}
+ul {
+  list-style-type: upper-roman;
+}
+header {
+  color: white;
+  position: relative;
+  top: 0;
+  left:0;
+  right:0;
+  margin-bottom: 50 px;
+}
+#footer ul{
+  background:#333;
+  color: white;
+  text-align: center;
+  list-style-type: none;
+  padding-bottom: 10px;
+  margin-block-end: 0;
+  margin-right: 0px;
+  margin-left:0px;
+  margin-bottom:0px;
+  bottom:0;
+  left:0;
+  right:0;
+ 
+}
+
+#navbar {
+  color: black;
+  background-color: gainsboro;
+}
+#navbar ul{
+  display: flex;
+  list-style: none;
+  text-emphasis: none;
+
+}
+.navbarbox{
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 0.5%;
+  padding-top: 0.5%
+}
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
